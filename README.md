@@ -1,1 +1,1 @@
-# Self-Attention-GAN-for-Image-Colorization
+# GAN-for-Image-Colorization
