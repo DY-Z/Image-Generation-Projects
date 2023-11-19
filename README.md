@@ -14,3 +14,6 @@ This is a demonstration on how to generate images through continuous normalizing
 [1] Jun-Yan Zhu*, Taesung Park*, Phillip Isola, and Alexei A. Efros. "Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks", in IEEE International Conference on Computer Vision (ICCV), 2017.\
 [2] Ricky T. Q. Chen*, Yulia Rubanova*, Jesse Bettencourt*, David Duvenaud. "Neural Ordinary Differential Equations", NeurIPS, 2018.\
 [3] Yaron Lipman, Ricky T. Q. Chen, Heli Ben-Hamu, Maximilian Nickel, Matthew Le. "Flow Matching for Generative Modeling", ICLM, 2023
+
+## Environment
+All notebooks run on a NVIDIA T4 GPU, requiring Python >= 3.6 and PyTorch >= 1.0. A GPU with larger memory can help when training CycleGAN.
